@@ -32,10 +32,6 @@ The lab included **19 automated tests**, covering:
 ### Output Requirements
 - Four-line output format  
 - Correct dot representation (● and ○)  
-- Exact match for:
-
-```python
-create_character('ren', 4, 2, 1)
 
 ## ✅ My Solution (All Tests Passed)
 full_dot = '●'
