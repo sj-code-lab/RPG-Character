@@ -34,6 +34,7 @@ The lab included **19 automated tests**, covering:
 - Correct dot representation (● and ○)  
 
 ## ✅ My Solution (All Tests Passed)
+``` python
 full_dot = '●'
 empty_dot = '○'
 
